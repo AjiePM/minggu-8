@@ -98,4 +98,15 @@ Perhatikan bahwa useReducer()desain didasarkan pada arsitektur Flux
 
 
 # unit testing
-bisa di lakukan oleh progremernya secara langsung  dengan tujuam : mencari kesalahan pada progremernya dengan adanya unit testing ini 
+adalah tinjauan baris demi baris tentang bagaimana kode Anda akan dieksekusi. Serangkaian tes untuk aplikasi terdiri dari berbagai bit kode untuk memverifikasi apakah aplikasi berhasil dijalankan dan tanpa kesalahan.
+
+testing juga berguna ketika pembaruan dibuat untuk kode. Setelah memperbarui sepotong kode, kita dapat menjalankan tes untuk memastikan bahwa pembaruan tidak merusak fungsionalitas yang sudah ada dalam aplikasi.
+
+## Mengapa  harus Tes
+
+1. Tujuan pertama dari pengujian adalah untuk mencegah regresi. Regresi adalah kemunculan kembali bug yang sebelumnya telah diperbaiki. Itu membuat fitur berhenti berfungsi sebagaimana dimaksud setelah peristiwa tertentu terjadi.
+2. Pengujian memastikan fungsionalitas komponen kompleks dan aplikasi modular.
+3. Pengujian diperlukan untuk kinerja efektif dari aplikasi perangkat lunak atau produk.
+
+
+dengan adanya testing membuat aplikasi lebih tangguh dan tidak rentan terhadap kesalahan. Ini adalah cara untuk memverifikasi bahwa kode kkita melakukan apa yang kita inginkan dan bahwa aplikasi kita berfungsi sebagaimana mestinya.
